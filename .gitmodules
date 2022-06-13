@@ -2,3 +2,7 @@
 	path = airflow/dags/afijo
 	url = git@github.com:tamboC/acceso_fijo_dags.git
 	branch = desarrollo
+[submodule "airflow/dags/amovil"]
+	path = airflow/dags/amovil
+	url = git@github.com:tamboC/acceso_movil_dags.git
+	branch = desarrollo
