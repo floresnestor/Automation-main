@@ -1,0 +1,4 @@
+[submodule "airflow/dags/afijo"]
+	path = airflow/dags/afijo
+	url = git@github.com:tamboC/acceso_fijo_dags.git
+	branch = desarrollo
