@@ -1,3 +1,0 @@
-[submodule "airflow/dags/cel_amovil"]
-	path = airflow/dags/cel_amovil
-	url = git@github.com:floresnestor/cel_amovil.git
